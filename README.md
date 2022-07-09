@@ -12,9 +12,6 @@ The project was done as part of the Udemy Course by Paulo Dichone - Check it awe
 ![](https://koremarcelblog.blob.core.windows.net/box-blog/ELT%20Project.png)
 
 
-
-https://www.credly.com/badges/2bf84022-a482-4da8-9b23-e2ca0468b3d7/public_url
-
 ### **Usage**
 
 The main handler function is `handler` and it contains a couple of functions that are used to resize the image.
